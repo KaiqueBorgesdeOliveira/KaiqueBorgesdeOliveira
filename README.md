@@ -1,6 +1,6 @@
 ### Hi, I'm Kaique Borges
 
-Hello! My name is Kaique Borges. Welcome to my portfolio! In this space, I present some projects that demonstrate my skills and my commitment to software development.
+Welcome to my space! Here, I present some projects that demonstrate my skills and my commitment to software development.
 I have studied in Java, Python, PHP, C/C# and Node.js.
 <hr>
  <div>
