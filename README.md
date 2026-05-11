@@ -1,30 +1,31 @@
-# > whoami
-**Kaique Borges**
-> Cloud & Systems Administrator | CS Graduate 🎓
+# 👋 Hi, I'm Kaique Borges
+
+### Cloud & Systems Administration | AWS Certified Cloud Practitioner Candidate ☁️
+
+Bacharel em Ciência da Computação com sólida experiência em suporte técnico, atualmente focado em arquitetura de nuvem, automação de infraestrutura e administração de sistemas Linux/Windows.
 
 ---
 
-### $ ls --skills /current/focus
-- **Cloud:** AWS (VPC, EC2, S3, IAM, Lambda)
-- **Containers:** Docker, Kubernetes
-- **OS:** Linux (Debian/RHEL), Windows Server
-- **Scripts:** Python, Shell Scripting, Java
+### 🎯 Professional Focus
+- ☁️ **Cloud Computing:** Especializando no ecossistema AWS e práticas de Cloud Adoption.
+- ⚙️ **DevOps & Automation:** Explorando o poder do Docker, Kubernetes e automação com Python.
+- 🐧 **Infrastructure:** Gerenciamento avançado de ambientes Linux e Windows Server.
 
-### $ cat goals.txt
-"Atualmente focado na conclusão da certificação AWS CLF-C02 e no desenvolvimento de projetos práticos de infraestrutura como código (IaC) e automação de ambientes."
-
----
-
-### 📉 Activity Monitor
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaiqueBorgesdeOliveira&show_icons=true&theme=radical&hide_border=true"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiqueBorgesdeOliveira&theme=radical&hide_border=true" />
-</div>
-
-### 📫 Contact / Connect
+### 🛠️ Core Stack
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,linux,windows,docker,kubernetes,py,bash,java,git,mysql&theme=dark" />
   </a>
+</p>
+
+### 📜 Certifications & Education
+- **B.S. Computer Science** (Graduado em 2025)
+- **AWS Certified Cloud Practitioner (CLF-C02)** — *In Progress*
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaiqueBorgesdeOliveira&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueBorgesdeOliveira&layout=compact&theme=tokyonight" />
 </p>
