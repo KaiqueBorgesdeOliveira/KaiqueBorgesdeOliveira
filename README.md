@@ -25,7 +25,8 @@ Bacharel em Ciência da Computação com sólida experiência em suporte técnic
 ---
 
 ### 📊 GitHub Stats
+
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaiqueBorgesdeOliveira&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueBorgesdeOliveira&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaiqueBorgesdeOliveira&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueBorgesdeOliveira&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
