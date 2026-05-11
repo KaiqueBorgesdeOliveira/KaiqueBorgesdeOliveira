@@ -23,6 +23,3 @@ Bacharel em Ciência da Computação com sólida experiência em suporte técnic
 - **AWS Certified Cloud Practitioner (CLF-C02)** — *In Progress*
 
 ---
-
-### 📈 Minha Jornada em Cloud & Infra
-![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,windows,py,bash,mysql,nginx,github&theme=dark)
