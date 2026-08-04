@@ -78,7 +78,7 @@ Concluído em 2025
 
 ## 📫 Contato
 
-- LinkedIn: [www.linkedin.com/in/kaique-borges-oliveira](https://www.linkedin.com/in/kaique-borges-3b5478117/)
+- LinkedIn: [www.linkedin.com/in/kaique-borges-oliveira]([https://www.linkedin.com/in/kaique-borges-3b5478117/](https://www.linkedin.com/in/kaique-borges-3b5478117/)
 - E-mail: borgeskaique438@gmail.com
 - GitHub: [github.com/kaiqueborges](https://github.com/KaiqueBorgesdeOliveira/KaiqueBorgesdeOliveira)
 
